@@ -1,0 +1,501 @@
+text,label
+Play music,play_music
+Play some music,play_music
+Play a song,play_music
+Start the music,play_music
+Start playing music,play_music
+Turn on the music,play_music
+Can you play music?,play_music
+Could you play some music?,play_music
+Please play music,play_music
+I want to hear music,play_music
+Play my playlist,play_music
+Play my favorite songs,play_music
+Begin playing music,play_music
+Start my playlist,play_music
+Play audio,play_music
+Play something for me,play_music
+Resume the music,play_music
+Resume playback,play_music
+Continue playing music,play_music
+Turn the music on,play_music
+Let's listen to some music,play_music
+Put on some music,play_music
+Play songs,play_music
+Start the songs,play_music
+I'd like to hear some music,play_music
+Play my songs,play_music
+Play something nice,play_music
+Play relaxing music,play_music
+Play any song,play_music
+Play my music,play_music
+Can we listen to music?,play_music
+Please start the playlist,play_music
+Start audio playback,play_music
+Play the playlist,play_music
+Switch on the music,play_music
+Begin the playlist,play_music
+Play tracks,play_music
+Start my songs,play_music
+I want music now,play_music
+Let's play music,play_music
+Please begin playing music,play_music
+Play tunes,play_music
+Play some tracks,play_music
+Start listening to music,play_music
+Get the music playing,play_music
+I'd love to hear music,play_music
+Play my favorite playlist,play_music
+Can you start my music?,play_music
+Please play my songs,play_music
+Start playing my playlist,play_music
+Pause music,pause_music
+Pause the music,pause_music
+Stop the music,pause_music
+Pause the song,pause_music
+Pause playback,pause_music
+Can you pause the music?,pause_music
+Please pause the music,pause_music
+Hold the music,pause_music
+Stop playing music,pause_music
+Temporarily stop the music,pause_music
+Pause audio,pause_music
+Pause my playlist,pause_music
+Pause the current song,pause_music
+Freeze the music,pause_music
+Take a break from the music,pause_music
+Pause it,pause_music
+Stop the audio,pause_music
+Can you stop the music for now?,pause_music
+Please stop playing,pause_music
+Pause all music,pause_music
+Mute the playback,pause_music
+Stop the playlist,pause_music
+Hold playback,pause_music
+Pause the tracks,pause_music
+Stop this song,pause_music
+Pause my songs,pause_music
+Can you hold the music?,pause_music
+Pause the player,pause_music
+Please hold playback,pause_music
+Stop audio playback,pause_music
+Interrupt the music,pause_music
+Pause everything,pause_music
+Can you pause it?,pause_music
+Music pause,pause_music
+Stop the current music,pause_music
+Pause the sound,pause_music
+Pause the audio now,pause_music
+Pause the running music,pause_music
+Please stop the current song,pause_music
+Take a pause,pause_music
+Pause my audio,pause_music
+Stop playing songs,pause_music
+Pause this playlist,pause_music
+Hold this song,pause_music
+Can you stop playback?,pause_music
+Stop the player,pause_music
+Pause immediately,pause_music
+Pause for a moment,pause_music
+Stop music now,pause_music
+Please pause now,pause_music
+Next song,play_next_song
+Play next song,play_next_song
+Skip song,play_next_song
+Skip this song,play_next_song
+Go to the next song,play_next_song
+Play the next track,play_next_song
+Next track,play_next_song
+Skip to the next track,play_next_song
+Can you play the next song?,play_next_song
+Please skip this song,play_next_song
+Move to the next song,play_next_song
+Advance to the next track,play_next_song
+Play another song,play_next_song
+Change the song,play_next_song
+Switch to the next song,play_next_song
+Next music,play_next_song
+Skip ahead,play_next_song
+Go forward one song,play_next_song
+Forward to the next track,play_next_song
+Play the following song,play_next_song
+Next please,play_next_song
+Can you skip ahead?,play_next_song
+Skip the current song,play_next_song
+Play the upcoming song,play_next_song
+Move forward in the playlist,play_next_song
+Go to the following track,play_next_song
+Advance the playlist,play_next_song
+Play the next audio track,play_next_song
+Continue with the next song,play_next_song
+Skip this track,play_next_song
+Forward one track,play_next_song
+Next audio,play_next_song
+Jump to the next song,play_next_song
+Play the next music track,play_next_song
+Move to another song,play_next_song
+Next item in the playlist,play_next_song
+Go to the next audio,play_next_song
+Please play the next track,play_next_song
+Skip forward,play_next_song
+Next track please,play_next_song
+Can you change the song?,play_next_song
+Play the next one,play_next_song
+Take me to the next song,play_next_song
+Go to another track,play_next_song
+Next tune,play_next_song
+Play a different song,play_next_song
+Skip to another song,play_next_song
+Continue to the next track,play_next_song
+Advance the music,play_next_song
+Move on to the next song,play_next_song
+Previous song,play_previous_song
+Play previous song,play_previous_song
+Go to the previous song,play_previous_song
+Play the last song,play_previous_song
+Previous track,play_previous_song
+Play the previous track,play_previous_song
+Go back one song,play_previous_song
+Go back to the last song,play_previous_song
+Return to the previous song,play_previous_song
+Can you play the previous song?,play_previous_song
+Please play the previous song,play_previous_song
+Move to the previous song,play_previous_song
+Switch to the previous track,play_previous_song
+Back to the previous song,play_previous_song
+Replay the last song,play_previous_song
+Go back to the previous track,play_previous_song
+Play the earlier song,play_previous_song
+Return to the last track,play_previous_song
+Previous music,play_previous_song
+Play the song before this one,play_previous_song
+Skip back,play_previous_song
+Go backward one song,play_previous_song
+Back one track,play_previous_song
+Play the earlier track,play_previous_song
+Move back in the playlist,play_previous_song
+Go to the earlier song,play_previous_song
+Return to the previous audio,play_previous_song
+Back to the last track,play_previous_song
+Take me to the previous song,play_previous_song
+Go to the song before this,play_previous_song
+Previous please,play_previous_song
+Can you go back a song?,play_previous_song
+Go back in the playlist,play_previous_song
+Previous audio,play_previous_song
+Back to the previous music,play_previous_song
+Play the previous audio track,play_previous_song
+Move back one track,play_previous_song
+Jump to the previous song,play_previous_song
+Play the last track,play_previous_song
+Can you play the last song?,play_previous_song
+Return to the previous playlist item,play_previous_song
+Back to the earlier song,play_previous_song
+Go to the last audio,play_previous_song
+Move to the last track,play_previous_song
+Go back please,play_previous_song
+Previous tune,play_previous_song
+Take me back one song,play_previous_song
+Replay the previous track,play_previous_song
+Play the song before,play_previous_song
+Move to the previous track,play_previous_song
+Increase volume,increase_volume
+Volume up,increase_volume
+Turn up the volume,increase_volume
+Raise the volume,increase_volume
+Make it louder,increase_volume
+Increase the sound,increase_volume
+Can you increase the volume?,increase_volume
+Please increase the volume,increase_volume
+Turn the sound up,increase_volume
+Boost the volume,increase_volume
+Raise the sound,increase_volume
+Increase audio volume,increase_volume
+Louder please,increase_volume
+Make the music louder,increase_volume
+Increase the music volume,increase_volume
+Turn it up,increase_volume
+More volume,increase_volume
+Boost the sound,increase_volume
+Raise it up,increase_volume
+Can you make it louder?,increase_volume
+Increase playback volume,increase_volume
+Raise the audio,increase_volume
+Turn the music up,increase_volume
+Pump up the volume,increase_volume
+Increase speaker volume,increase_volume
+Volume higher,increase_volume
+Set the volume higher,increase_volume
+Increase it a little,increase_volume
+Raise the level,increase_volume
+Boost audio,increase_volume
+Turn the volume way up,increase_volume
+Increase the output volume,increase_volume
+Give me more sound,increase_volume
+Increase the loudness,increase_volume
+Can you turn it up?,increase_volume
+Please make it louder,increase_volume
+Raise volume now,increase_volume
+Increase audio level,increase_volume
+Play it louder,increase_volume
+Turn the speakers up,increase_volume
+More sound please,increase_volume
+Increase volume now,increase_volume
+Raise the music,increase_volume
+Turn up my music,increase_volume
+Boost the music,increase_volume
+Set a higher volume,increase_volume
+Raise the playback volume,increase_volume
+Increase the speaker level,increase_volume
+Turn everything louder,increase_volume
+Volume increase,increase_volume
+Decrease volume,decrease_volume
+Volume down,decrease_volume
+Lower the volume,decrease_volume
+Reduce the volume,decrease_volume
+Turn the volume down,decrease_volume
+Make it quieter,decrease_volume
+Decrease the sound,decrease_volume
+Can you decrease the volume?,decrease_volume
+Please lower the volume,decrease_volume
+Reduce the sound,decrease_volume
+Turn the sound down,decrease_volume
+Lower the sound,decrease_volume
+Decrease audio volume,decrease_volume
+Quieter please,decrease_volume
+Reduce music volume,decrease_volume
+Turn it down,decrease_volume
+Less volume,decrease_volume
+Lower the music,decrease_volume
+Reduce playback volume,decrease_volume
+Can you make it quieter?,decrease_volume
+Decrease playback volume,decrease_volume
+Turn the music down,decrease_volume
+Lower the audio,decrease_volume
+Reduce the loudness,decrease_volume
+Volume lower,decrease_volume
+Set the volume lower,decrease_volume
+Decrease it a little,decrease_volume
+Lower the speaker volume,decrease_volume
+Reduce audio,decrease_volume
+Please turn it down,decrease_volume
+Decrease the output volume,decrease_volume
+Give me less sound,decrease_volume
+Can you lower it?,decrease_volume
+Turn the speakers down,decrease_volume
+Reduce volume now,decrease_volume
+Lower audio level,decrease_volume
+Play it softer,decrease_volume
+Make the music softer,decrease_volume
+Reduce the speaker level,decrease_volume
+Decrease the music volume,decrease_volume
+Lower everything,decrease_volume
+Reduce the playback level,decrease_volume
+Decrease volume now,decrease_volume
+Lower my music,decrease_volume
+Reduce the sound level,decrease_volume
+Set a lower volume,decrease_volume
+Lower the playback volume,decrease_volume
+Turn everything quieter,decrease_volume
+Volume decrease,decrease_volume
+Make it less loud,decrease_volume
+Enable Do Not Disturb,activate_do_not_disturb
+Turn on Do Not Disturb,activate_do_not_disturb
+Activate Do Not Disturb,activate_do_not_disturb
+Enable DND,activate_do_not_disturb
+Turn on DND mode,activate_do_not_disturb
+Switch on Do Not Disturb,activate_do_not_disturb
+Please enable Do Not Disturb,activate_do_not_disturb
+Can you enable Do Not Disturb?,activate_do_not_disturb
+Start Do Not Disturb mode,activate_do_not_disturb
+Activate DND mode,activate_do_not_disturb
+Put the phone in Do Not Disturb mode,activate_do_not_disturb
+Silence notifications,activate_do_not_disturb
+Mute notifications,activate_do_not_disturb
+Block notifications,activate_do_not_disturb
+Turn off notifications,activate_do_not_disturb
+Enable silent mode,activate_do_not_disturb
+Switch to silent mode,activate_do_not_disturb
+Silence my phone,activate_do_not_disturb
+Make the phone silent,activate_do_not_disturb
+Turn the phone silent,activate_do_not_disturb
+Activate silent mode,activate_do_not_disturb
+Enable focus mode,activate_do_not_disturb
+Start focus mode,activate_do_not_disturb
+Turn on focus mode,activate_do_not_disturb
+Activate focus mode,activate_do_not_disturb
+Enable quiet mode,activate_do_not_disturb
+Switch on quiet mode,activate_do_not_disturb
+Turn on quiet mode,activate_do_not_disturb
+I don't want notifications,activate_do_not_disturb
+Stop incoming notifications,activate_do_not_disturb
+Block incoming alerts,activate_do_not_disturb
+Mute all alerts,activate_do_not_disturb
+Silence incoming calls,activate_do_not_disturb
+Silence incoming messages,activate_do_not_disturb
+Prevent interruptions,activate_do_not_disturb
+Don't disturb me,activate_do_not_disturb
+Enable no disturbance mode,activate_do_not_disturb
+Please activate DND,activate_do_not_disturb
+Can you turn on DND?,activate_do_not_disturb
+Turn on the do not disturb feature,activate_do_not_disturb
+Enable interruption-free mode,activate_do_not_disturb
+Stop all notifications,activate_do_not_disturb
+Silence everything,activate_do_not_disturb
+Mute the phone,activate_do_not_disturb
+Turn off alerts,activate_do_not_disturb
+Activate notification blocking,activate_do_not_disturb
+Enable notification blocking,activate_do_not_disturb
+Start notification blocking,activate_do_not_disturb
+Keep the phone quiet,activate_do_not_disturb
+Enable distraction-free mode,activate_do_not_disturb
+Disable Do Not Disturb,deactivate_do_not_disturb
+Turn off Do Not Disturb,deactivate_do_not_disturb
+Deactivate Do Not Disturb,deactivate_do_not_disturb
+Disable DND,deactivate_do_not_disturb
+Turn off DND mode,deactivate_do_not_disturb
+Switch off Do Not Disturb,deactivate_do_not_disturb
+Please disable Do Not Disturb,deactivate_do_not_disturb
+Can you disable Do Not Disturb?,deactivate_do_not_disturb
+Stop Do Not Disturb mode,deactivate_do_not_disturb
+Deactivate DND mode,deactivate_do_not_disturb
+Turn notifications back on,deactivate_do_not_disturb
+Enable notifications,deactivate_do_not_disturb
+Unmute notifications,deactivate_do_not_disturb
+Restore notifications,deactivate_do_not_disturb
+Allow notifications,deactivate_do_not_disturb
+Turn off silent mode,deactivate_do_not_disturb
+Exit silent mode,deactivate_do_not_disturb
+Disable silent mode,deactivate_do_not_disturb
+Switch off silent mode,deactivate_do_not_disturb
+Make the phone ring again,deactivate_do_not_disturb
+Turn the sound back on,deactivate_do_not_disturb
+Resume notifications,deactivate_do_not_disturb
+Turn on alerts,deactivate_do_not_disturb
+Allow incoming notifications,deactivate_do_not_disturb
+Stop focus mode,deactivate_do_not_disturb
+Disable focus mode,deactivate_do_not_disturb
+Turn off focus mode,deactivate_do_not_disturb
+Exit focus mode,deactivate_do_not_disturb
+Disable quiet mode,deactivate_do_not_disturb
+Turn off quiet mode,deactivate_do_not_disturb
+Switch off quiet mode,deactivate_do_not_disturb
+I want notifications again,deactivate_do_not_disturb
+Resume incoming alerts,deactivate_do_not_disturb
+Allow interruptions,deactivate_do_not_disturb
+Stop blocking notifications,deactivate_do_not_disturb
+Disable notification blocking,deactivate_do_not_disturb
+Turn notification blocking off,deactivate_do_not_disturb
+Please deactivate DND,deactivate_do_not_disturb
+Can you turn off DND?,deactivate_do_not_disturb
+Exit Do Not Disturb,deactivate_do_not_disturb
+Disable interruption-free mode,deactivate_do_not_disturb
+Resume normal mode,deactivate_do_not_disturb
+Return to normal mode,deactivate_do_not_disturb
+Take the phone out of silent mode,deactivate_do_not_disturb
+Enable ringing,deactivate_do_not_disturb
+Turn the ringer back on,deactivate_do_not_disturb
+Stop muting notifications,deactivate_do_not_disturb
+Bring back notifications,deactivate_do_not_disturb
+Make the phone normal again,deactivate_do_not_disturb
+Deactivate distraction-free mode,deactivate_do_not_disturb
+Accept call,pick_up_call
+Pick up the call,pick_up_call
+Answer the call,pick_up_call
+Receive the call,pick_up_call
+Take the call,pick_up_call
+Answer phone,pick_up_call
+Accept the incoming call,pick_up_call
+Pick up my phone,pick_up_call
+Can you answer the call?,pick_up_call
+Please answer the call,pick_up_call
+Receive the incoming call,pick_up_call
+Take this call,pick_up_call
+Answer it,pick_up_call
+Pick it up,pick_up_call
+Accept this call,pick_up_call
+Connect the call,pick_up_call
+Answer the phone,pick_up_call
+Accept the phone call,pick_up_call
+Receive this phone call,pick_up_call
+Take my call,pick_up_call
+Can you pick up?,pick_up_call
+Please pick up the phone,pick_up_call
+Answer the incoming phone call,pick_up_call
+Accept my incoming call,pick_up_call
+Go ahead and answer,pick_up_call
+Take the incoming call,pick_up_call
+Open the call,pick_up_call
+Connect me to the caller,pick_up_call
+Answer now,pick_up_call
+Pick up now,pick_up_call
+Receive now,pick_up_call
+Answer this phone,pick_up_call
+Accept the ringing call,pick_up_call
+Take the phone call,pick_up_call
+Respond to the call,pick_up_call
+Accept the caller,pick_up_call
+Join the call,pick_up_call
+Pick up the incoming phone,pick_up_call
+Go ahead and pick up,pick_up_call
+Start the call,pick_up_call
+Receive the caller,pick_up_call
+Take this phone call,pick_up_call
+Answer my phone,pick_up_call
+Accept this incoming phone call,pick_up_call
+Can you receive the call?,pick_up_call
+Please receive the call,pick_up_call
+Answer immediately,pick_up_call
+Pick up immediately,pick_up_call
+Take the call now,pick_up_call
+Accept the call now,pick_up_call
+Decline call,decline_call
+Reject the call,decline_call
+Hang up,decline_call
+Ignore the call,decline_call
+End the call,decline_call
+Decline the incoming call,decline_call
+Reject this call,decline_call
+Can you reject the call?,decline_call
+Please decline the call,decline_call
+Don't answer the call,decline_call
+Ignore this phone call,decline_call
+Reject the incoming call,decline_call
+End this call,decline_call
+Dismiss the call,decline_call
+Hang up the phone,decline_call
+Cancel the call,decline_call
+Decline it,decline_call
+Reject it,decline_call
+Ignore it,decline_call
+Disconnect the call,decline_call
+Stop the call,decline_call
+Reject the phone call,decline_call
+Decline my call,decline_call
+Ignore the incoming phone call,decline_call
+Please hang up,decline_call
+Hang up now,decline_call
+Reject now,decline_call
+Decline now,decline_call
+Disconnect now,decline_call
+Refuse the call,decline_call
+Refuse this phone call,decline_call
+Terminate the call,decline_call
+Cancel this incoming call,decline_call
+Stop ringing,decline_call
+Dismiss the incoming call,decline_call
+Decline the ringing call,decline_call
+Ignore the caller,decline_call
+Reject the caller,decline_call
+End the incoming call,decline_call
+Hang up immediately,decline_call
+Reject immediately,decline_call
+Please reject this call,decline_call
+Don't pick up,decline_call
+Decline this phone call,decline_call
+Skip the call,decline_call
+Ignore this caller,decline_call
+Cancel the phone call,decline_call
+Disconnect the incoming call,decline_call
+End the phone call,decline_call
+Reject the call now,decline_call

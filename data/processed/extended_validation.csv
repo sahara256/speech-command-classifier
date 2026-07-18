@@ -1,0 +1,151 @@
+text,label
+Switch on Do Not Disturb,activate_do_not_disturb
+Cover the roof opening,close_sunroof
+Please slide open the roof,open_sunroof
+Convert dollars to rupees.,OOS
+Show me the weather.,OOS
+Close the vehicle roof,close_sunroof
+Answer the incoming phone call,pick_up_call
+Pick up immediately,pick_up_call
+Slide the sunroof open,open_sunroof
+Increase speaker volume,increase_volume
+Show train schedules,OOS
+Call Mom.,OOS
+Deactivate the air conditioner,turn_off_ac
+Set the volume higher,increase_volume
+Ignore the caller,decline_call
+Move the roof glass forward,close_sunroof
+Book a bus ticket,OOS
+Add an appointment.,OOS
+Open Facebook.,OOS
+Decrease volume now,decrease_volume
+Can you stop the air conditioner,turn_off_ac
+Show business news.,OOS
+Switch on quiet mode,activate_do_not_disturb
+End the call,decline_call
+Make the phone normal again,deactivate_do_not_disturb
+Play something for me,play_music
+More sound please,increase_volume
+Turn off silent mode,deactivate_do_not_disturb
+Return to the last track,play_previous_song
+Disable the AC,turn_off_ac
+Dismiss the call,decline_call
+Decline the incoming call,decline_call
+Less volume,decrease_volume
+Please turn off the AC,turn_off_ac
+Roll a dice.,OOS
+Turn the ringer back on,deactivate_do_not_disturb
+Record slow motion video.,OOS
+Back to the previous music,play_previous_song
+Switch on the fan,OOS
+Answer the call,pick_up_call
+Book a medical checkup,OOS
+Next tune,play_next_song
+Open Telegram.,OOS
+Next track,play_next_song
+Book a doctor's appointment,OOS
+Go to the last audio,play_previous_song
+End the phone call,decline_call
+Unlock the sunroof,open_sunroof
+Raise the cabin temperature,turn_off_ac
+Open the roof panel,open_sunroof
+How does Wi-Fi work?,OOS
+Buy headphones.,OOS
+Let sunlight in,open_sunroof
+Schedule a dentist appointment,OOS
+Turn on cold air,turn_on_ac
+Start my songs,play_music
+Can we chat?,OOS
+Please increase the volume,increase_volume
+What is artificial intelligence?,OOS
+Make it louder,increase_volume
+Do you like music?,OOS
+Switch off the AC,turn_off_ac
+Volume lower,decrease_volume
+Plan my vacation,OOS
+Send an SMS.,OOS
+Can you turn on DND?,activate_do_not_disturb
+Turn it down,decrease_volume
+Return to the previous audio,play_previous_song
+Turn the sound down,decrease_volume
+Turn off all cooling,turn_off_ac
+Slide the roof closed,close_sunroof
+Connect the call,pick_up_call
+What's the weather today?,OOS
+Read my latest email.,OOS
+Play the next one,play_next_song
+Play my favorite songs,play_music
+How many days are left this year?,OOS
+Turn notifications back on,deactivate_do_not_disturb
+Slide the roof into place,close_sunroof
+Stop incoming notifications,activate_do_not_disturb
+Increase volume,increase_volume
+What can you do?,OOS
+Enable cool air,turn_on_ac
+I want to hear a joke.,OOS
+Silence incoming messages,activate_do_not_disturb
+Freeze the music,pause_music
+Capture a photo.,OOS
+Move to the next song,play_next_song
+Turn on quiet mode,activate_do_not_disturb
+Pause audio,pause_music
+Make me smile.,OOS
+What is 99 divided by 3?,OOS
+Take me home.,OOS
+Switch on the music,play_music
+Stop blocking notifications,deactivate_do_not_disturb
+Decline it,decline_call
+Music pause,pause_music
+Turn off Do Not Disturb,deactivate_do_not_disturb
+Show nearby clinics,OOS
+Please open the sunroof,open_sunroof
+Answer my phone,pick_up_call
+Skip ahead,play_next_song
+Pause my songs,pause_music
+Take this call,pick_up_call
+Are you a robot?,OOS
+Please skip this song,play_next_song
+Can you turn on the AC,turn_on_ac
+Enable silent mode,activate_do_not_disturb
+Mute the playback,pause_music
+Create a new playlist.,OOS
+What's happening in India?,OOS
+Previous music,play_previous_song
+Read my messages.,OOS
+Boost the sound,increase_volume
+Could you play some music?,play_music
+Cover the glass roof,close_sunroof
+Turn the music down,decrease_volume
+Next audio,play_next_song
+Go to the song before this,play_previous_song
+Start a stopwatch.,OOS
+Return to normal mode,deactivate_do_not_disturb
+Set a timer for ten minutes.,OOS
+Show sports news.,OOS
+End air conditioning,turn_off_ac
+Delete this picture.,OOS
+I want the AC on,turn_on_ac
+Pick a random number.,OOS
+When is Christmas?,OOS
+Download this album.,OOS
+Please deactivate DND,deactivate_do_not_disturb
+Lower the cabin temperature,turn_on_ac
+Volume down,decrease_volume
+Answer it,pick_up_call
+Play the previous track,play_previous_song
+Give me fresh air,open_sunroof
+Switch on the cooling system,turn_on_ac
+Accept my incoming call,pick_up_call
+Turn the music up,increase_volume
+Stop playing songs,pause_music
+Turn on the music,play_music
+Decline this phone call,decline_call
+Start the music,play_music
+Play some music,play_music
+Please close the sunroof,close_sunroof
+Return to the previous song,play_previous_song
+Enable focus mode,activate_do_not_disturb
+Turn the air conditioning on,turn_on_ac
+Interrupt the music,pause_music
+Show local news.,OOS
+Find a pediatrician,OOS

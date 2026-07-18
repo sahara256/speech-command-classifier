@@ -1,0 +1,121 @@
+text,label
+Turn the phone silent,activate_do_not_disturb
+Decrease playback volume,decrease_volume
+Advance to the next track,play_next_song
+Decline my call,decline_call
+Play it softer,decrease_volume
+Search for laptops.,OOS
+Pause for a moment,pause_music
+Convert kilometers to miles.,OOS
+Pause music,pause_music
+Receive the incoming call,pick_up_call
+Find tourist attractions,OOS
+Set the thermostat to 22 degrees,OOS
+Play the last track,play_previous_song
+Stop playing songs,pause_music
+Activate notification blocking,activate_do_not_disturb
+Buy movie tickets.,OOS
+Reject immediately,decline_call
+Lock the front door,OOS
+Plan my vacation,OOS
+Who won the World Cup?,OOS
+Stop the call,decline_call
+Transfer money,OOS
+Stop focus mode,deactivate_do_not_disturb
+Check my account balance,OOS
+Can you pause the music?,pause_music
+Who created you?,OOS
+Answer the incoming phone call,pick_up_call
+Rotate the screen.,OOS
+Please make it louder,increase_volume
+Book a train ticket.,OOS
+Play it louder,increase_volume
+Find a pediatrician,OOS
+Reduce audio,decrease_volume
+Play tracks,play_music
+Move on to the next song,play_next_song
+Bring back notifications,deactivate_do_not_disturb
+Find nearby ATMs,OOS
+Check battery percentage.,OOS
+Find a shopping mall.,OOS
+Flip a coin.,OOS
+Ignore this caller,decline_call
+Play my songs,play_music
+Read today's lecture,OOS
+Increase audio volume,increase_volume
+End the phone call,decline_call
+Raise the audio,increase_volume
+Turn notification blocking off,deactivate_do_not_disturb
+Silence incoming messages,activate_do_not_disturb
+Make a phone call.,OOS
+Find a movie theater.,OOS
+Can you enable Do Not Disturb?,activate_do_not_disturb
+Disable focus mode,deactivate_do_not_disturb
+Do you like music?,OOS
+Skip this track,play_next_song
+Like this song.,OOS
+Dismiss the incoming call,decline_call
+Accept my incoming call,pick_up_call
+Go back please,play_previous_song
+Play relaxing music,play_music
+Call an ambulance,OOS
+Put the phone in Do Not Disturb mode,activate_do_not_disturb
+Pause my songs,pause_music
+Take this call,pick_up_call
+Return to the previous audio,play_previous_song
+Play music,play_music
+Turn the ringer back on,deactivate_do_not_disturb
+Take me to the previous song,play_previous_song
+Answer phone,pick_up_call
+Begin the playlist,play_music
+Can you increase the volume?,increase_volume
+Skip ahead,play_next_song
+Book a hotel in Chennai,OOS
+Text Mom.,OOS
+Reserve a table.,OOS
+Play the song before,play_previous_song
+Schedule a meeting.,OOS
+Switch on Do Not Disturb,activate_do_not_disturb
+Interrupt the music,pause_music
+Show my exam schedule,OOS
+Can you disable Do Not Disturb?,deactivate_do_not_disturb
+Next track please,play_next_song
+Send an email.,OOS
+Turn on airplane mode.,OOS
+Open File Manager.,OOS
+Decrease screen brightness.,OOS
+Mute all alerts,activate_do_not_disturb
+Turn off focus mode,deactivate_do_not_disturb
+Can you change the song?,play_next_song
+Start WhatsApp.,OOS
+Give me more sound,increase_volume
+What's happening in India?,OOS
+Close the garage door,OOS
+Show my photos.,OOS
+Mute notifications,activate_do_not_disturb
+Lower the playback volume,decrease_volume
+Put on some music,play_music
+Start audio playback,play_music
+Decline the ringing call,decline_call
+Take a pause,pause_music
+Find nearby cafes.,OOS
+Open my bank account,OOS
+Move to the next song,play_next_song
+Switch on the fan,OOS
+Set a reminder.,OOS
+Answer my phone,pick_up_call
+Raise the level,increase_volume
+Go back one song,play_previous_song
+Resume incoming alerts,deactivate_do_not_disturb
+Decrease the output volume,decrease_volume
+Respond to the call,pick_up_call
+Dial my brother.,OOS
+Play the next one,play_next_song
+Are you a robot?,OOS
+Can you pause it?,pause_music
+Decrease audio volume,decrease_volume
+Play my music,play_music
+Back to the previous song,play_previous_song
+Lower the music,decrease_volume
+Who is the Prime Minister of India?,OOS
+Show nearby gyms.,OOS

@@ -1,0 +1,151 @@
+text,label
+Play tracks,play_music
+Move the roof forward,close_sunroof
+Read today's lecture,OOS
+Stop the playlist,pause_music
+Open my online course,OOS
+Can you play music?,play_music
+Square root of 144.,OOS
+How far is the Moon?,OOS
+More volume,increase_volume
+How many centimeters in one meter?,OOS
+Volume decrease,decrease_volume
+Finish closing the roof,close_sunroof
+Change wallpaper.,OOS
+Lower the speaker volume,decrease_volume
+Turn on airplane mode.,OOS
+Seal the cabin roof,close_sunroof
+Close the garage door,OOS
+Lower everything,decrease_volume
+Accept this incoming phone call,pick_up_call
+Receive now,pick_up_call
+Move the top roof back,open_sunroof
+Close the cooling vents,turn_off_ac
+What time is it?,OOS
+Increase screen brightness.,OOS
+Previous song,play_previous_song
+Play it softer,decrease_volume
+Find a movie theater.,OOS
+Keep the phone quiet,activate_do_not_disturb
+Check my notifications.,OOS
+Hang up now,decline_call
+Reserve a table.,OOS
+Launch YouTube.,OOS
+Block the fresh air,close_sunroof
+Resume my movie,OOS
+Redial the last number.,OOS
+Turn off Bluetooth.,OOS
+Close the roof securely,close_sunroof
+Rename this file.,OOS
+Reduce the sound,decrease_volume
+Reply to the message.,OOS
+Schedule a meeting.,OOS
+Louder please,increase_volume
+Recommend a restaurant.,OOS
+Pause music,pause_music
+Change the song,play_next_song
+Seal the roof window,close_sunroof
+Find nearby ATMs,OOS
+Answer the phone,pick_up_call
+Open YouTube.,OOS
+Open the roof window,open_sunroof
+Decline my call,decline_call
+Stop ringing,decline_call
+Decline call,decline_call
+Reduce playback volume,decrease_volume
+Start notification blocking,activate_do_not_disturb
+Print this document.,OOS
+Turn notification blocking off,deactivate_do_not_disturb
+Open the garage door,OOS
+It is too hot please turn on the AC,turn_on_ac
+What year is this?,OOS
+Turn the music on,play_music
+Begin playing music,play_music
+Read today's headlines.,OOS
+Stop the call,decline_call
+Switch off quiet mode,deactivate_do_not_disturb
+Please decline the call,decline_call
+Open BBC News.,OOS
+Receive the caller,pick_up_call
+Go to the next song,play_next_song
+Decline now,decline_call
+Slide the roof back,open_sunroof
+What is today's day?,OOS
+Block incoming alerts,activate_do_not_disturb
+Who is the Prime Minister of India?,OOS
+Stop the audio,pause_music
+Set an alarm for 7 AM.,OOS
+Tell another joke.,OOS
+Teach me SQL.,OOS
+Open the skylight,open_sunroof
+Explain blockchain.,OOS
+Increase the speaker level,increase_volume
+Forward one track,play_next_song
+Go to the earlier song,play_previous_song
+Switch on cabin AC,turn_on_ac
+Disable cabin cooling,turn_off_ac
+Silence incoming calls,activate_do_not_disturb
+Move back one track,play_previous_song
+Pause all music,pause_music
+Play a TV show,OOS
+Disable cool air,turn_off_ac
+Buy movie tickets.,OOS
+Apply for a loan,OOS
+Boost the volume,increase_volume
+Advance the music,play_next_song
+Back to the previous song,play_previous_song
+Stop the air cooling,turn_off_ac
+Answer this phone,pick_up_call
+Pick up now,pick_up_call
+Activate the cooling system,turn_on_ac
+Switch off cabin AC,turn_off_ac
+Retract the roof glass,open_sunroof
+Please enable Do Not Disturb,activate_do_not_disturb
+Start AC now,turn_on_ac
+Start fresh air cooling,turn_on_ac
+Lower the music,decrease_volume
+Compose an email.,OOS
+Close the upper window,close_sunroof
+Raise the sound,increase_volume
+Pause the tracks,pause_music
+Enable distraction-free mode,activate_do_not_disturb
+Go back to the previous track,play_previous_song
+What is 25 percent of 800?,OOS
+Set a lower volume,decrease_volume
+Bring back notifications,deactivate_do_not_disturb
+Open the vehicle roof,open_sunroof
+Check this sentence.,OOS
+Hang up immediately,decline_call
+Begin air conditioning,turn_on_ac
+Turn off focus mode,deactivate_do_not_disturb
+Pause the player,pause_music
+Make the phone ring again,deactivate_do_not_disturb
+Tell me today's forecast.,OOS
+Previous audio,play_previous_song
+Please stop the AC,turn_off_ac
+Start the call,pick_up_call
+Pause this playlist,pause_music
+Volume up,increase_volume
+Turn on DND mode,activate_do_not_disturb
+Start my playlist,play_music
+Switch to the next song,play_next_song
+Open the panoramic roof,open_sunroof
+Find nearby cafes.,OOS
+Zoom in the camera.,OOS
+Go to the next audio,play_next_song
+Please stop cooling,turn_off_ac
+Can you go back a song?,play_previous_song
+Continue with the next song,play_next_song
+Create an alarm.,OOS
+Allow interruptions,deactivate_do_not_disturb
+Play the playlist,play_music
+Increase volume now,increase_volume
+Close the opening above,close_sunroof
+Let the breeze in,open_sunroof
+Open LinkedIn.,OOS
+Resume normal mode,deactivate_do_not_disturb
+Please play music,play_music
+Enable climate control,turn_on_ac
+Switch on air conditioning,turn_on_ac
+Please pause the music,pause_music
+Play the upcoming song,play_next_song

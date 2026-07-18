@@ -1,0 +1,201 @@
+text,label
+Turn on the AC,turn_on_ac
+Switch on the AC,turn_on_ac
+Start the air conditioner,turn_on_ac
+Enable the AC,turn_on_ac
+Turn the air conditioning on,turn_on_ac
+Please turn on the AC,turn_on_ac
+Can you turn on the AC,turn_on_ac
+Activate the air conditioner,turn_on_ac
+Start cooling the cabin,turn_on_ac
+Cool the car,turn_on_ac
+Make the cabin cooler,turn_on_ac
+Enable climate control,turn_on_ac
+Switch on air conditioning,turn_on_ac
+Turn on cabin cooling,turn_on_ac
+Begin cooling,turn_on_ac
+I want the AC on,turn_on_ac
+It is too hot please turn on the AC,turn_on_ac
+Start the cooling system,turn_on_ac
+Power on the AC,turn_on_ac
+Activate cooling,turn_on_ac
+Turn on the cooling,turn_on_ac
+Please start the AC,turn_on_ac
+Switch the AC on,turn_on_ac
+Enable cool air,turn_on_ac
+Start the climate control,turn_on_ac
+Cool down the cabin,turn_on_ac
+Turn on cold air,turn_on_ac
+Make it cooler inside,turn_on_ac
+Lower the cabin temperature,turn_on_ac
+Start the air cooling,turn_on_ac
+Give me cool air,turn_on_ac
+Begin air conditioning,turn_on_ac
+Switch on cabin AC,turn_on_ac
+Activate the cooling system,turn_on_ac
+Turn on vehicle AC,turn_on_ac
+Start cabin air conditioning,turn_on_ac
+I need the AC,turn_on_ac
+Please cool the cabin,turn_on_ac
+Enable vehicle cooling,turn_on_ac
+Turn the AC back on,turn_on_ac
+Start fresh air cooling,turn_on_ac
+Turn on the cooling system,turn_on_ac
+Can you start the air conditioner,turn_on_ac
+Bring down the temperature,turn_on_ac
+Activate cabin cooling,turn_on_ac
+Switch on the cooling system,turn_on_ac
+Turn on interior cooling,turn_on_ac
+Enable cold air,turn_on_ac
+Cool the interior,turn_on_ac
+Start AC now,turn_on_ac
+Turn off the AC,turn_off_ac
+Switch off the AC,turn_off_ac
+Stop the air conditioner,turn_off_ac
+Disable the AC,turn_off_ac
+Turn the air conditioning off,turn_off_ac
+Please turn off the AC,turn_off_ac
+Can you turn off the AC,turn_off_ac
+Deactivate the air conditioner,turn_off_ac
+Stop cooling the cabin,turn_off_ac
+Stop the cooling,turn_off_ac
+Disable climate control,turn_off_ac
+Switch off air conditioning,turn_off_ac
+Turn off cabin cooling,turn_off_ac
+End cooling,turn_off_ac
+I do not need the AC anymore,turn_off_ac
+It is cold please turn off the AC,turn_off_ac
+Stop the cooling system,turn_off_ac
+Power off the AC,turn_off_ac
+Deactivate cooling,turn_off_ac
+Please stop the AC,turn_off_ac
+Switch the AC off,turn_off_ac
+Disable cool air,turn_off_ac
+Stop climate control,turn_off_ac
+Turn off cold air,turn_off_ac
+Raise the cabin temperature,turn_off_ac
+Stop the air cooling,turn_off_ac
+No more cool air,turn_off_ac
+Disable air conditioning,turn_off_ac
+Switch off cabin AC,turn_off_ac
+Deactivate the cooling system,turn_off_ac
+Turn off vehicle AC,turn_off_ac
+Stop cabin air conditioning,turn_off_ac
+Please stop cooling,turn_off_ac
+Turn the AC back off,turn_off_ac
+Disable vehicle cooling,turn_off_ac
+Can you stop the air conditioner,turn_off_ac
+Stop interior cooling,turn_off_ac
+Turn off the cooling system,turn_off_ac
+End air conditioning,turn_off_ac
+Switch off interior cooling,turn_off_ac
+Close the cooling vents,turn_off_ac
+Stop the cold air,turn_off_ac
+Disable cabin cooling,turn_off_ac
+Turn off all cooling,turn_off_ac
+Stop AC now,turn_off_ac
+Power down the AC,turn_off_ac
+Deactivate cabin cooling,turn_off_ac
+Switch off the cooling unit,turn_off_ac
+End the cooling process,turn_off_ac
+Open the sunroof,open_sunroof
+Please open the sunroof,open_sunroof
+Can you open the sunroof,open_sunroof
+Slide the sunroof open,open_sunroof
+Open my sunroof,open_sunroof
+Open the roof,open_sunroof
+Let some fresh air in,open_sunroof
+Expose the sunroof,open_sunroof
+Move the sunroof open,open_sunroof
+Retract the sunroof,open_sunroof
+Slide back the sunroof,open_sunroof
+Pull the sunroof open,open_sunroof
+Open the glass roof,open_sunroof
+Lift the sunroof,open_sunroof
+Open the roof window,open_sunroof
+Start opening the sunroof,open_sunroof
+Unlock the sunroof,open_sunroof
+Move the roof back,open_sunroof
+Open the panoramic roof,open_sunroof
+Give me fresh air,open_sunroof
+Open the top window,open_sunroof
+Please slide open the roof,open_sunroof
+Retract the roof panel,open_sunroof
+Expose the cabin to fresh air,open_sunroof
+Let sunlight in,open_sunroof
+Open the upper window,open_sunroof
+Move the roof glass back,open_sunroof
+Slide the roof back,open_sunroof
+Raise the roof opening,open_sunroof
+Ventilate the cabin,open_sunroof
+Open the vehicle roof,open_sunroof
+Please uncover the roof,open_sunroof
+Start opening the roof,open_sunroof
+Open the roof panel,open_sunroof
+Can you slide back the roof,open_sunroof
+Make the roof open,open_sunroof
+Expose the cabin,open_sunroof
+Pull back the roof,open_sunroof
+Move the glass roof open,open_sunroof
+Open the skylight,open_sunroof
+Slide open the glass roof,open_sunroof
+Allow fresh air inside,open_sunroof
+Retract the roof glass,open_sunroof
+Fully open the sunroof,open_sunroof
+Open the overhead window,open_sunroof
+Open the roof completely,open_sunroof
+Move the top roof back,open_sunroof
+Let the breeze in,open_sunroof
+Open the roof hatch,open_sunroof
+Open it up,open_sunroof
+Close the sunroof,close_sunroof
+Please close the sunroof,close_sunroof
+Can you close the sunroof,close_sunroof
+Shut the sunroof,close_sunroof
+Close my sunroof,close_sunroof
+Close the roof,close_sunroof
+Seal the sunroof,close_sunroof
+Slide the sunroof shut,close_sunroof
+Move the sunroof closed,close_sunroof
+Cover the sunroof,close_sunroof
+Close the glass roof,close_sunroof
+Shut the roof window,close_sunroof
+Lower the sunroof,close_sunroof
+Finish closing the sunroof,close_sunroof
+Lock the sunroof,close_sunroof
+Move the roof forward,close_sunroof
+Close the panoramic roof,close_sunroof
+Block the fresh air,close_sunroof
+Close the top window,close_sunroof
+Slide the roof closed,close_sunroof
+Cover the roof opening,close_sunroof
+Shut the roof panel,close_sunroof
+Seal the roof window,close_sunroof
+Close the upper window,close_sunroof
+Close the vehicle roof,close_sunroof
+Please cover the roof,close_sunroof
+Stop the roof opening,close_sunroof
+Close the roof panel,close_sunroof
+Move the roof glass forward,close_sunroof
+Slide the glass roof shut,close_sunroof
+Close the skylight,close_sunroof
+Pull the roof closed,close_sunroof
+Secure the sunroof,close_sunroof
+Completely close the sunroof,close_sunroof
+Close the overhead window,close_sunroof
+Close the roof completely,close_sunroof
+Move the top roof forward,close_sunroof
+Shut the roof hatch,close_sunroof
+Seal the cabin roof,close_sunroof
+Slide the roof into place,close_sunroof
+Close it up,close_sunroof
+Finish closing the roof,close_sunroof
+Cover the glass roof,close_sunroof
+Return the roof to the closed position,close_sunroof
+Move the roof shut,close_sunroof
+Slide the panel forward,close_sunroof
+Close the opening above,close_sunroof
+Shut everything above,close_sunroof
+Close the roof now,close_sunroof
+Turn off the cabin AC,turn_off_ac
+Close the roof securely,close_sunroof

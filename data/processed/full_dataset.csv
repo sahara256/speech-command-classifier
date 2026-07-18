@@ -1,0 +1,801 @@
+text,label
+Launch Discord.,OOS
+Correct my grammar.,OOS
+Freeze the music,pause_music
+Show nearby restaurants.,OOS
+Stop the audio,pause_music
+Calculate 25 plus 75.,OOS
+Enable notification blocking,activate_do_not_disturb
+Reject immediately,decline_call
+Roll a dice.,OOS
+Reject this call,decline_call
+Pause it,pause_music
+Play it softer,decrease_volume
+Turn off flashlight.,OOS
+Can you stop the music for now?,pause_music
+Turn on quiet mode,activate_do_not_disturb
+Turn the ringer back on,deactivate_do_not_disturb
+Boost the music,increase_volume
+Exit focus mode,deactivate_do_not_disturb
+What's today's date?,OOS
+Open Facebook.,OOS
+What's happening in India?,OOS
+Launch Gmail.,OOS
+What is 99 divided by 3?,OOS
+Show today's assignments,OOS
+Turn notifications back on,deactivate_do_not_disturb
+Can we listen to music?,play_music
+Turn the sound down,decrease_volume
+Disable dark mode.,OOS
+Close the garage door,OOS
+Who is the Prime Minister of India?,OOS
+Turn it up,increase_volume
+Please hold playback,pause_music
+Tell me about Earth.,OOS
+Allow interruptions,deactivate_do_not_disturb
+Let's play music,play_music
+Start the songs,play_music
+Open Reddit.,OOS
+Make the phone normal again,deactivate_do_not_disturb
+What is data science?,OOS
+Turn off the lights,OOS
+Next track please,play_next_song
+Decrease volume,decrease_volume
+Move back in the playlist,play_previous_song
+Turn on focus mode,activate_do_not_disturb
+Disable Wi-Fi.,OOS
+Launch the browser.,OOS
+Accept my incoming call,pick_up_call
+Turn on airplane mode.,OOS
+Recommend a movie,OOS
+Open Google Maps.,OOS
+Turn it down,decrease_volume
+Please skip this song,play_next_song
+Spell accommodation.,OOS
+Reduce the sound level,decrease_volume
+Enable no disturbance mode,activate_do_not_disturb
+Switch off silent mode,deactivate_do_not_disturb
+Answer immediately,pick_up_call
+Silence incoming messages,activate_do_not_disturb
+Play the song before,play_previous_song
+Previous music,play_previous_song
+Terminate the call,decline_call
+Start my coding lesson,OOS
+Show business news.,OOS
+Please enable Do Not Disturb,activate_do_not_disturb
+Increase the output volume,increase_volume
+Answer the incoming phone call,pick_up_call
+Start playing my playlist,play_music
+Locate a hotel.,OOS
+Can you disable Do Not Disturb?,deactivate_do_not_disturb
+Pause the audio now,pause_music
+Create a calendar event.,OOS
+Go to the last audio,play_previous_song
+Explain artificial intelligence.,OOS
+Play the playlist,play_music
+Please start the playlist,play_music
+Move to the previous track,play_previous_song
+Turn off silent mode,deactivate_do_not_disturb
+Ignore the caller,decline_call
+Enable Wi-Fi.,OOS
+Check my email.,OOS
+Answer now,pick_up_call
+Please play the next track,play_next_song
+Hold playback,pause_music
+Pause the player,pause_music
+Say something funny.,OOS
+Locate a supermarket.,OOS
+Find a shopping mall.,OOS
+Set the volume lower,decrease_volume
+Enable notifications,deactivate_do_not_disturb
+Pause immediately,pause_music
+Take a selfie.,OOS
+Book a medical checkup,OOS
+Give me less sound,decrease_volume
+Take the phone out of silent mode,deactivate_do_not_disturb
+What is 25 percent of 800?,OOS
+Resume my movie,OOS
+Recharge my mobile,OOS
+What can you do?,OOS
+Pause playback,pause_music
+What's your name?,OOS
+Play the previous track,play_previous_song
+Accept the ringing call,pick_up_call
+Pause for a moment,pause_music
+Next please,play_next_song
+Can you hold the music?,pause_music
+Make it louder,increase_volume
+Deactivate Do Not Disturb,deactivate_do_not_disturb
+Start a stopwatch.,OOS
+Turn the sound up,increase_volume
+Disable silent mode,deactivate_do_not_disturb
+Take the incoming call,pick_up_call
+Do you know any jokes?,OOS
+Stop the current music,pause_music
+Play my playlist,play_music
+Open my online course,OOS
+Move to the next song,play_next_song
+Launch YouTube.,OOS
+Search my documents.,OOS
+Boost the volume,increase_volume
+Please make it louder,increase_volume
+Switch to silent mode,activate_do_not_disturb
+Can you turn off DND?,deactivate_do_not_disturb
+Forward to the next track,play_next_song
+Find a pediatrician,OOS
+Raise the sound,increase_volume
+Turn the volume down,decrease_volume
+Decrease screen brightness.,OOS
+Play my music,play_music
+Less volume,decrease_volume
+Read today's headlines.,OOS
+How do you say thank you in Spanish?,OOS
+Lower the playback volume,decrease_volume
+Pause everything,pause_music
+Search for shoes.,OOS
+Activate Do Not Disturb,activate_do_not_disturb
+Show me the weather.,OOS
+Do you like music?,OOS
+Turn off notifications,activate_do_not_disturb
+Switch to front camera.,OOS
+Please answer the call,pick_up_call
+Increase audio volume,increase_volume
+Find the nearest hospital.,OOS
+Stop ringing,decline_call
+Raise it up,increase_volume
+Could you play some music?,play_music
+Hang up the phone,decline_call
+Play next song,play_next_song
+Switch on quiet mode,activate_do_not_disturb
+Read technology news.,OOS
+Find a petrol station.,OOS
+Open Camera.,OOS
+Play a song,play_music
+Check flight status,OOS
+Show recent files.,OOS
+Give me a funny story.,OOS
+Order food online.,OOS
+How does Wi-Fi work?,OOS
+Set the thermostat to 22 degrees,OOS
+Tell another joke.,OOS
+Open Spotify.,OOS
+Reduce music volume,decrease_volume
+What is today's day?,OOS
+Stop incoming notifications,activate_do_not_disturb
+Silence everything,activate_do_not_disturb
+Enable ringing,deactivate_do_not_disturb
+Stop audio playback,pause_music
+Advance the music,play_next_song
+Disable Do Not Disturb,deactivate_do_not_disturb
+Resume incoming alerts,deactivate_do_not_disturb
+Receive the caller,pick_up_call
+Activate DND mode,activate_do_not_disturb
+Block my debit card,OOS
+Play the next music track,play_next_song
+I want notifications again,deactivate_do_not_disturb
+Make the music louder,increase_volume
+Show local news.,OOS
+Can you pause the music?,pause_music
+Find tourist attractions,OOS
+Open Calculator.,OOS
+Book a flight.,OOS
+Turn on shuffle mode.,OOS
+Open Instagram.,OOS
+Take me back one song,play_previous_song
+What are the symptoms of flu?,OOS
+Show today's deals.,OOS
+Pause audio,pause_music
+Explain quantum computing.,OOS
+Decrease screen timeout.,OOS
+Answer this phone,pick_up_call
+Watch a comedy movie,OOS
+Answer my phone,pick_up_call
+Join the call,pick_up_call
+Increase the speaker level,increase_volume
+Book a train ticket.,OOS
+Read my latest email.,OOS
+Pause my audio,pause_music
+What's the latest news?,OOS
+Can you go back a song?,play_previous_song
+Who is Elon Musk?,OOS
+Redial the last number.,OOS
+Lower everything,decrease_volume
+Return to the previous song,play_previous_song
+Pause all music,pause_music
+Make me smile.,OOS
+Next audio,play_next_song
+Get the music playing,play_music
+Mute the playback,pause_music
+Launch Twitter.,OOS
+Switch off Do Not Disturb,deactivate_do_not_disturb
+Can you receive the call?,pick_up_call
+Flip a coin.,OOS
+Next item in the playlist,play_next_song
+Can you pause it?,pause_music
+Go back to the previous track,play_previous_song
+Replay the last song,play_previous_song
+Play any song,play_music
+Take the call now,pick_up_call
+Move to the last track,play_previous_song
+Turn the speakers up,increase_volume
+Show my exam schedule,OOS
+Book a flight to Delhi,OOS
+Go to the next audio,play_next_song
+Translate to Hindi.,OOS
+Silence notifications,activate_do_not_disturb
+Can you change the song?,play_next_song
+Ignore the incoming phone call,decline_call
+Can you play music?,play_music
+Teach me machine learning,OOS
+Where are you from?,OOS
+Pause the tracks,pause_music
+Call customer care.,OOS
+Make it less loud,decrease_volume
+Play a different song,play_next_song
+Decrease volume now,decrease_volume
+Can you turn it up?,increase_volume
+Increase playback volume,increase_volume
+Decline call,decline_call
+Switch off quiet mode,deactivate_do_not_disturb
+Jump to the next song,play_next_song
+Disable focus mode,deactivate_do_not_disturb
+Take the call,pick_up_call
+Open Google.,OOS
+Start the vacuum cleaner,OOS
+Open the call,pick_up_call
+Play tunes,play_music
+Ignore this caller,decline_call
+Can you play the next song?,play_next_song
+Turn off alerts,activate_do_not_disturb
+Please pause the music,pause_music
+Reduce the sound,decrease_volume
+Refuse the call,decline_call
+Convert dollars to rupees.,OOS
+Increase it a little,increase_volume
+Louder please,increase_volume
+Turn off Bluetooth.,OOS
+Silence incoming calls,activate_do_not_disturb
+I'd like to hear some music,play_music
+Find nearby coffee shops.,OOS
+Turn off Do Not Disturb,deactivate_do_not_disturb
+Please disable Do Not Disturb,deactivate_do_not_disturb
+Pause the music,pause_music
+Mute all alerts,activate_do_not_disturb
+Find nearby hotels,OOS
+Solve 12 times 15.,OOS
+Will it rain tomorrow?,OOS
+Prevent interruptions,activate_do_not_disturb
+Lower audio level,decrease_volume
+Continue playing music,play_music
+Buy movie tickets.,OOS
+Unlock the front door,OOS
+Music pause,pause_music
+Pause my playlist,pause_music
+End this call,decline_call
+Reduce the playback level,decrease_volume
+Pick up immediately,pick_up_call
+Go back in the playlist,play_previous_song
+Set a timer for ten minutes.,OOS
+What's the weather today?,OOS
+Pump up the volume,increase_volume
+Go ahead and answer,pick_up_call
+Reject it,decline_call
+Turn the phone silent,activate_do_not_disturb
+I don't want notifications,activate_do_not_disturb
+Accept this incoming phone call,pick_up_call
+Decline this phone call,decline_call
+Return to the previous audio,play_previous_song
+Like this song.,OOS
+Restore notifications,deactivate_do_not_disturb
+Back to the previous song,play_previous_song
+Turn everything louder,increase_volume
+Tell me something funny.,OOS
+Book a doctor's appointment,OOS
+Stop this song,pause_music
+Capture a photo.,OOS
+Answer phone,pick_up_call
+Go to the next song,play_next_song
+Switch to the next song,play_next_song
+Enable Do Not Disturb,activate_do_not_disturb
+Pause this playlist,pause_music
+Take this call,pick_up_call
+Take a pause,pause_music
+Start WhatsApp.,OOS
+Show train schedules,OOS
+Switch off the fan,OOS
+What is machine learning?,OOS
+Disconnect the incoming call,decline_call
+Skip the call,decline_call
+Play my favorite songs,play_music
+Take the phone call,pick_up_call
+Start listening to music,play_music
+Play some tracks,play_music
+Return to the last track,play_previous_song
+Send money to John,OOS
+Which month is this?,OOS
+Answer it,pick_up_call
+Take me to the previous song,play_previous_song
+Navigate to my office.,OOS
+Get directions to the airport.,OOS
+Back to the last track,play_previous_song
+What does this word mean?,OOS
+Convert PDF to Word.,OOS
+Can you decrease the volume?,decrease_volume
+Stop the stopwatch.,OOS
+Set a reminder.,OOS
+Play something for me,play_music
+Start the music,play_music
+Don't disturb me,activate_do_not_disturb
+Decrease the sound,decrease_volume
+Book a cab.,OOS
+Please receive the call,pick_up_call
+Can you turn on DND?,activate_do_not_disturb
+Disconnect now,decline_call
+Accept the phone call,pick_up_call
+Rotate the screen.,OOS
+How do I treat a headache?,OOS
+Activate focus mode,activate_do_not_disturb
+Can you reject the call?,decline_call
+I want to hear music,play_music
+Volume increase,increase_volume
+Play songs,play_music
+Raise the audio,increase_volume
+Add an appointment.,OOS
+Open LinkedIn.,OOS
+Show nearby parks.,OOS
+Convert kilometers to miles.,OOS
+Enable interruption-free mode,activate_do_not_disturb
+Shuffle my playlist.,OOS
+Raise the volume,increase_volume
+Increase audio level,increase_volume
+Hold this song,pause_music
+Take me home.,OOS
+Unmute notifications,deactivate_do_not_disturb
+Remind me to study.,OOS
+Reduce volume now,decrease_volume
+Back to the previous music,play_previous_song
+Record slow motion video.,OOS
+Stop muting notifications,deactivate_do_not_disturb
+Play the last song,play_previous_song
+Pause my songs,pause_music
+Ignore the call,decline_call
+Open Telegram.,OOS
+Lower the speaker volume,decrease_volume
+Please stop playing,pause_music
+I want to hear a joke.,OOS
+Play the last track,play_previous_song
+Turn the music down,decrease_volume
+Raise volume now,increase_volume
+Please stop the current song,pause_music
+Pick a random number.,OOS
+Go forward one song,play_next_song
+Go to the following track,play_next_song
+Translate hello to French.,OOS
+Decrease the music volume,decrease_volume
+Play it louder,increase_volume
+Play music,play_music
+What is ChatGPT?,OOS
+Start Amazon Prime Video,OOS
+How does GPS work?,OOS
+Cancel the call,decline_call
+Reduce audio,decrease_volume
+Square root of 144.,OOS
+Skip ahead,play_next_song
+Raise the level,increase_volume
+Tell me about yourself.,OOS
+Can you pick up?,pick_up_call
+Respond to the call,pick_up_call
+Volume lower,decrease_volume
+Make the phone silent,activate_do_not_disturb
+Call Mom.,OOS
+Next tune,play_next_song
+Delete this picture.,OOS
+Book a bus ticket,OOS
+Read today's lecture,OOS
+Order groceries.,OOS
+Make the phone ring again,deactivate_do_not_disturb
+Reduce playback volume,decrease_volume
+Compose an email.,OOS
+Can you enable Do Not Disturb?,activate_do_not_disturb
+Put the phone in Do Not Disturb mode,activate_do_not_disturb
+Reject the call,decline_call
+Play my favorite playlist,play_music
+Enable distraction-free mode,activate_do_not_disturb
+Resume notifications,deactivate_do_not_disturb
+Search the web.,OOS
+Lower the sound,decrease_volume
+Previous tune,play_previous_song
+Tell me an interesting fact.,OOS
+Repeat this song.,OOS
+Skip to the next track,play_next_song
+Temporarily stop the music,pause_music
+Restart the device.,OOS
+Start the call,pick_up_call
+Next song,play_next_song
+Decline now,decline_call
+Schedule a dentist appointment,OOS
+Reserve a hotel.,OOS
+Show nearby airports,OOS
+Go to the song before this,play_previous_song
+Turn on DND mode,activate_do_not_disturb
+Pick up now,pick_up_call
+Is it going to snow?,OOS
+Open File Manager.,OOS
+Move on to the next song,play_next_song
+Move forward in the playlist,play_next_song
+Turn on flashlight.,OOS
+Check my notifications.,OOS
+Play the previous audio track,play_previous_song
+Wake me up tomorrow.,OOS
+Pause music,pause_music
+Reject the caller,decline_call
+Find a movie theater.,OOS
+Decline the ringing call,decline_call
+Enable focus mode,activate_do_not_disturb
+Disable DND,deactivate_do_not_disturb
+Plan my vacation,OOS
+Take me to the next song,play_next_song
+Turn the sound back on,deactivate_do_not_disturb
+Play the next one,play_next_song
+Deactivate distraction-free mode,deactivate_do_not_disturb
+Quieter please,decrease_volume
+Activate silent mode,activate_do_not_disturb
+Turn the music on,play_music
+Back one track,play_previous_song
+What's happening around the world?,OOS
+Mute notifications,activate_do_not_disturb
+Disable interruption-free mode,deactivate_do_not_disturb
+Open the garage door,OOS
+Begin playing music,play_music
+Pick up my phone,pick_up_call
+Can you answer the call?,pick_up_call
+Switch on Do Not Disturb,activate_do_not_disturb
+Turn off DND mode,deactivate_do_not_disturb
+Play my songs,play_music
+Take a screenshot.,OOS
+Play the song before this one,play_previous_song
+I want music now,play_music
+Go to the earlier song,play_previous_song
+Set a higher volume,increase_volume
+Volume decrease,decrease_volume
+Check this sentence.,OOS
+Answer the phone,pick_up_call
+Remind me in one hour.,OOS
+Lower the audio,decrease_volume
+What time is it?,OOS
+Previous track,play_previous_song
+Advance the playlist,play_next_song
+Accept the call now,pick_up_call
+Who invented Python?,OOS
+Stop all notifications,activate_do_not_disturb
+Receive now,pick_up_call
+Make the music softer,decrease_volume
+Change the song,play_next_song
+Reject the call now,decline_call
+Play the earlier track,play_previous_song
+Deactivate DND mode,deactivate_do_not_disturb
+Cancel this incoming call,decline_call
+Hold the music,pause_music
+Dial my brother.,OOS
+Turn the music up,increase_volume
+Decrease the output volume,decrease_volume
+Resume playback,play_music
+Play the next audio track,play_next_song
+Start focus mode,activate_do_not_disturb
+Make it quieter,decrease_volume
+Show my current location.,OOS
+Stop the call,decline_call
+Lock the phone.,OOS
+Ignore it,decline_call
+Extract the ZIP file.,OOS
+Return to the previous playlist item,play_previous_song
+Next music,play_next_song
+Cheer me up.,OOS
+Find nearby ATMs,OOS
+Start navigation.,OOS
+Can you stop playback?,pause_music
+Previous please,play_previous_song
+Turn on Do Not Disturb,activate_do_not_disturb
+Show the calendar.,OOS
+Order pizza.,OOS
+Increase screen brightness.,OOS
+Find flights to Mumbai,OOS
+Dial emergency services.,OOS
+Apply for a loan,OOS
+Create an alarm.,OOS
+Turn on the music,play_music
+Where is the nearest bank?,OOS
+I'd love to hear music,play_music
+Open my notes,OOS
+Go back to the last song,play_previous_song
+Find action movies,OOS
+Go backward one song,play_previous_song
+Resume the music,play_music
+Make me laugh.,OOS
+Please play my songs,play_music
+Copy these files.,OOS
+Are you a robot?,OOS
+Refuse this phone call,decline_call
+Turn the speakers down,decrease_volume
+Navigate to Chennai.,OOS
+Volume higher,increase_volume
+Play something nice,play_music
+Increase screen timeout.,OOS
+Pick up the incoming phone,pick_up_call
+Allow notifications,deactivate_do_not_disturb
+Boost audio,increase_volume
+Start my songs,play_music
+Print this document.,OOS
+Stop focus mode,deactivate_do_not_disturb
+Disconnect the call,decline_call
+Create a new folder.,OOS
+Buy headphones.,OOS
+Open Snapchat.,OOS
+Go back please,play_previous_song
+Track my order.,OOS
+Browse Pinterest.,OOS
+Tell me today's forecast.,OOS
+Delete this folder.,OOS
+Teach me French.,OOS
+Rename this file.,OOS
+Switch to the previous track,play_previous_song
+Who created you?,OOS
+Go to the previous song,play_previous_song
+Start a conference call.,OOS
+What is artificial intelligence?,OOS
+Add this song to favorites.,OOS
+Advance to the next track,play_next_song
+Set the volume higher,increase_volume
+Explain blockchain.,OOS
+Skip this song,play_next_song
+Please pick up the phone,pick_up_call
+Take my call,pick_up_call
+Play the following song,play_next_song
+Pause the song,pause_music
+Play previous song,play_previous_song
+Receive the call,pick_up_call
+Can you help me?,OOS
+Please increase the volume,increase_volume
+Download this album.,OOS
+Is today a holiday?,OOS
+Please play music,play_music
+Show sports news.,OOS
+Play tracks,play_music
+Hang up,decline_call
+Reduce the volume,decrease_volume
+Enable DND,activate_do_not_disturb
+Play a TV show,OOS
+How many continents are there?,OOS
+Reserve a table.,OOS
+Decrease audio volume,decrease_volume
+Turn everything quieter,decrease_volume
+Accept this call,pick_up_call
+Previous song,play_previous_song
+Enable dark mode.,OOS
+Find a pharmacy,OOS
+Call John.,OOS
+End the incoming call,decline_call
+Continue to the next track,play_next_song
+Skip to another song,play_next_song
+Find nearby cafes.,OOS
+Switch on the fan,OOS
+Open Netflix,OOS
+Keep the phone quiet,activate_do_not_disturb
+Dismiss the call,decline_call
+Enable quiet mode,activate_do_not_disturb
+Move back one track,play_previous_song
+Play the upcoming song,play_next_song
+Add this item to my cart.,OOS
+Go to another track,play_next_song
+Generate a password.,OOS
+Replay the previous track,play_previous_song
+Please turn it down,decrease_volume
+Lower my music,decrease_volume
+Accept call,pick_up_call
+Skip the current song,play_next_song
+Previous audio,play_previous_song
+Turn up the volume,increase_volume
+Go ahead and pick up,pick_up_call
+Raise the playback volume,increase_volume
+Connect the call,pick_up_call
+Find a nearby hospital,OOS
+Skip this track,play_next_song
+Answer the call,pick_up_call
+Open Settings.,OOS
+Multiply 18 by 12.,OOS
+Practice Python,OOS
+Can you make it louder?,increase_volume
+Solve this math problem,OOS
+Show trending movies,OOS
+Book a hotel in Chennai,OOS
+What year is this?,OOS
+Turn notification blocking off,deactivate_do_not_disturb
+Move this document.,OOS
+Will it be cloudy today?,OOS
+Lower the music,decrease_volume
+Recommend a restaurant.,OOS
+Take this phone call,pick_up_call
+Cancel the phone call,decline_call
+Play another song,play_next_song
+Give me more sound,increase_volume
+Update my status.,OOS
+Open Disney Plus,OOS
+Allow incoming notifications,deactivate_do_not_disturb
+Increase the loudness,increase_volume
+Change wallpaper.,OOS
+Silence my phone,activate_do_not_disturb
+Receive the incoming call,pick_up_call
+Call an ambulance,OOS
+Stop Do Not Disturb mode,deactivate_do_not_disturb
+Please lower the volume,decrease_volume
+How many centimeters in one meter?,OOS
+Can you lower it?,decrease_volume
+Turn off focus mode,deactivate_do_not_disturb
+Stop blocking notifications,deactivate_do_not_disturb
+Increase speaker volume,increase_volume
+Can we chat?,OOS
+Any breaking news?,OOS
+Decline my call,decline_call
+Start notification blocking,activate_do_not_disturb
+Do I need an umbrella?,OOS
+Check battery percentage.,OOS
+Show nearby gyms.,OOS
+Turn on the lights,OOS
+Open Google Classroom,OOS
+When is Christmas?,OOS
+Cancel my order.,OOS
+Zoom in the camera.,OOS
+Show my playlists.,OOS
+Call my office.,OOS
+Who discovered gravity?,OOS
+Pause the sound,pause_music
+Raise the music,increase_volume
+Can you play the previous song?,play_previous_song
+Open Chrome.,OOS
+Begin the playlist,play_music
+Set an alarm for 7 AM.,OOS
+Skip back,play_previous_song
+Open BBC News.,OOS
+Compare laptop prices.,OOS
+Create a new playlist.,OOS
+How old are you?,OOS
+Stop the player,pause_music
+Reply to the message.,OOS
+More sound please,increase_volume
+Who won the World Cup?,OOS
+Ignore this phone call,decline_call
+Make a phone call.,OOS
+Pay my electricity bill,OOS
+Can you increase the volume?,increase_volume
+Return to normal mode,deactivate_do_not_disturb
+Bring back notifications,deactivate_do_not_disturb
+Open Amazon.,OOS
+Boost the sound,increase_volume
+Start playing music,play_music
+Record a video.,OOS
+Show nearby clinics,OOS
+What day is tomorrow?,OOS
+Schedule a meeting.,OOS
+Stop music now,pause_music
+How far is the Moon?,OOS
+Accept the incoming call,pick_up_call
+Is it sunny outside?,OOS
+Can you start my music?,play_music
+Start audio playback,play_music
+Increase volume,increase_volume
+Move to another song,play_next_song
+Play relaxing music,play_music
+Show my transaction history,OOS
+Turn the volume way up,increase_volume
+Hang up immediately,decline_call
+Disable quiet mode,deactivate_do_not_disturb
+Reduce the speaker level,decrease_volume
+Receive this phone call,pick_up_call
+Turn off shuffle.,OOS
+Resume normal mode,deactivate_do_not_disturb
+Turn on Bluetooth.,OOS
+End the phone call,decline_call
+Skip forward,play_next_song
+Pause the current song,pause_music
+Reject the phone call,decline_call
+Show my photos.,OOS
+Continue with the next song,play_next_song
+Empty the recycle bin.,OOS
+Open YouTube.,OOS
+Take a break from the music,pause_music
+Play audio,play_music
+Go back one song,play_previous_song
+Please begin playing music,play_music
+Don't pick up,decline_call
+Turn off quiet mode,deactivate_do_not_disturb
+Jump to the previous song,play_previous_song
+More volume,increase_volume
+Stop the music,pause_music
+Please activate DND,activate_do_not_disturb
+Set a lower volume,decrease_volume
+Check my account balance,OOS
+Volume down,decrease_volume
+Reject the incoming call,decline_call
+Decline the incoming call,decline_call
+Teach me SQL.,OOS
+Can you make it quieter?,decrease_volume
+Volume up,increase_volume
+Move to the previous song,play_previous_song
+Video call Sarah.,OOS
+Pick up the call,pick_up_call
+Transfer money,OOS
+Reject now,decline_call
+Play the next track,play_next_song
+Open my inbox.,OOS
+Exit Do Not Disturb,deactivate_do_not_disturb
+Play some music,play_music
+Compress this file.,OOS
+Text Mom.,OOS
+Interrupt the music,pause_music
+Increase the sound,increase_volume
+Switch on the music,play_music
+How hot is it today?,OOS
+Connect me to the caller,pick_up_call
+End the call,decline_call
+Exit silent mode,deactivate_do_not_disturb
+Stop playing songs,pause_music
+Turn on the do not disturb feature,activate_do_not_disturb
+Read my messages.,OOS
+Activate notification blocking,activate_do_not_disturb
+Increase volume now,increase_volume
+Start my playlist,play_music
+Enable silent mode,activate_do_not_disturb
+Play a movie,OOS
+Please deactivate DND,deactivate_do_not_disturb
+Reduce the loudness,decrease_volume
+Play the earlier song,play_previous_song
+What is cloud computing?,OOS
+Open gallery.,OOS
+Dismiss the incoming call,decline_call
+Find a gas station.,OOS
+What's the temperature now?,OOS
+Turn up my music,increase_volume
+Send an email.,OOS
+Send an SMS.,OOS
+Find cheap phones.,OOS
+Can you play the last song?,play_previous_song
+Post a photo.,OOS
+Hang up now,decline_call
+Search for laptops.,OOS
+Tell me a joke.,OOS
+Stop playing music,pause_music
+Please hang up,decline_call
+Send a message to John.,OOS
+Lock the front door,OOS
+Lower the volume,decrease_volume
+Put on some music,play_music
+Block notifications,activate_do_not_disturb
+Don't answer the call,decline_call
+Please play the previous song,play_previous_song
+Decrease it a little,decrease_volume
+Back to the earlier song,play_previous_song
+Disable notification blocking,deactivate_do_not_disturb
+Pick it up,pick_up_call
+Please reject this call,decline_call
+Mute the phone,activate_do_not_disturb
+Scan this document.,OOS
+Start Do Not Disturb mode,activate_do_not_disturb
+Translate this sentence.,OOS
+Forward one track,play_next_song
+Convert English to Tamil.,OOS
+Please pause now,pause_music
+Turn on alerts,deactivate_do_not_disturb
+Pause the running music,pause_music
+Please decline the call,decline_call
+Block incoming alerts,activate_do_not_disturb
+Increase the music volume,increase_volume
+Decline it,decline_call
+Can you skip ahead?,play_next_song
+How many days are left this year?,OOS
+Let's listen to some music,play_music
+Open my bank account,OOS
+Stop the playlist,pause_music
+Next track,play_next_song
+Decrease playback volume,decrease_volume
+Accept the caller,pick_up_call
+Skip song,play_next_song
